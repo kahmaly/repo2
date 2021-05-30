@@ -8,3 +8,4 @@ composer.phar
 .DS_Store
 /public/.DS_Store
 /public/*.jpg
+/media/
